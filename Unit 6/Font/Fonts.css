@@ -1,0 +1,22 @@
+body {
+	font-size:12px;
+}
+
+h1 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 3.0em;
+	text-align: center;
+	text-decoration: line-through;
+}
+
+span {
+	font-size: 1.5em;
+}
+
+p {
+	font-family: "Yeon Sung", cursive;
+	font-weight: bold;
+	line-height: 1.5;
+	text-indent: 20px;
+	text-decoration: underline;
+}
