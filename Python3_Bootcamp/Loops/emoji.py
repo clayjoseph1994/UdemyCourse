@@ -1,3 +1,11 @@
+#This program uses looping to print emojis on lines in the terminal
+#It uses for loops and while loops to increment the emojis on each line
+#a number of times specified by the range. I then tweaked it to center the 
+#emojis using both for and while loop portions. The end result is 4 stacks of
+#emoji icons, the 1st and 3rd of which are simply incremented.
+#The 2nd and 4th stacks are centered.
+
+
 #For loop
 for x in range(1,11):
 	print("\U0001f600" * x)

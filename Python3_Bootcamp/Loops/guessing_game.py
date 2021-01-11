@@ -1,5 +1,5 @@
 import random
-
+#setting up random number and assigning guess variable
 random_number = random.randint(1,10)
 guess = None
 
@@ -12,6 +12,7 @@ while guess != random_number:
 		print("Guess too high. Try again. ")
 	else:
 		print("Bitch, you guessed it. You was right!")
+		#setting up for another game
 		again = input("Play again? (y for yes, anything else to quit): ")
 		if again == "y":
 			random_number = random.randint(1,10)
