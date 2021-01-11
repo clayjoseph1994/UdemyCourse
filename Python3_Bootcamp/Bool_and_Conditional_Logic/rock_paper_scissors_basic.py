@@ -1,3 +1,6 @@
+#Tried and true game of rock, paper, scissors in the command line.
+#The goal of this program is to demonstrate comprehension of boolean logic.
+#This is the simple version where there are 2 users battling it out on the same terminal.
 print("Rock...")
 print("Paper...")
 print("Scissors...")

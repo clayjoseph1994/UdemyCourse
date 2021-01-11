@@ -1,3 +1,5 @@
+#This is the second iteration of the automated version of RPS where a user battles a "computer"
+#opponent in a game. Boolean logic, but a little tweaked and more fun and personalized.
 from random import randint
 
 comp = randint(0, 2)

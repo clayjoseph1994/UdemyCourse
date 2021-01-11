@@ -1,3 +1,6 @@
+#First iteration of RPS program against an automated opponent. A random integer from zero to 2 is chosen 
+#representing rock, paper, or scissors. The player is prompted to make their selection,
+#then boolean logic is followed to determine who wins.
 import random
 
 comp = random.randint(0, 2)
