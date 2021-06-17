@@ -1,0 +1,4 @@
+1. Parameters
+2. *args - stored as a tuple
+3. Default Parameters
+4. **kwargs - stored as a dictionary
